@@ -2,8 +2,7 @@
 - 💡 I’m interested in JavaScript, React, SQL. 
 - 🌱 I’m currently learning AWS, C++ and about data analysis. 
 - 📝 View my submissions about tech concepts and learning https://medium.com/@halmaimcrae
-- 🧬 I’m looking to collaborate on open source projects and create fun, useful applications. 
-- 📧 Get in touch halmaimcrae1@gmail
+- 🧬 I’m looking to collaborate on open source projects and create fun, useful applications.
 - 👋🏼 Nga mihi, ka kite ano. 
 <!---
 halmai-mcrae/halmai-mcrae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
