@@ -1,6 +1,6 @@
 -  Kia ora, I’m @halmai-mcrae.
 -  I’m interested in JavaScript & TypeScript, React & Vue.js. 
--  I’m currently learning Go, Next.js & AWS.
+-  I’m currently learning Go, NextJS & AWS.
 -  View my submissions about tech concepts and learning https://medium.com/@halmaimcrae
 -  I’m looking to collaborate on open source projects and create fun, useful applications.
 -  Nga mihi, ka kite ano. 
