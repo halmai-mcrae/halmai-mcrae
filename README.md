@@ -1,10 +1,10 @@
 **Kia ora, I'm @halmai-mcrae!**
 
-🔧 TypeScript, React, Angular, Node.js
+TypeScript and Node.js.
 
-🖤 Building reliable APIs, sculpting services, and fine-tuning UIs.
+Building reliable APIs, sculpting services, and fine-tuning UIs.
 
-💻 Love teaming up on exciting projects. Let's create something cool together.
+Love teaming up on projects. Let's create something cool together.
 
 <!---
 halmai-mcrae/halmai-mcrae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
